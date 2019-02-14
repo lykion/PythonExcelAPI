@@ -1,0 +1,6 @@
+email:     # 缩进时吗，不允许使用Tab，只允许使用空格
+  sender: 546524133@qq.com
+  recevier: 546524133@qq.com
+  smtpserver: smtp.qq.com
+  username: 凯彬
+  password: zhubaoqiu881210
